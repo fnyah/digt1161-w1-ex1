@@ -1,5 +1,5 @@
 # About me 
-- My name is Zachary, I am working at shopify. 
+- My name is Zachary, I work at Shopify. 
 - I have many hobbies, TCGs, gaming, cycling. 
 
 
